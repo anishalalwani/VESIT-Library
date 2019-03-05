@@ -1,0 +1,13 @@
+<!--
+  ~ Created By Pavankumar.camp.Vesit Library
+  ~ Copyright(c) 2017
+  ~ No Content can me modified or used without any permission
+  ~ All Rights Reserved to VESIT LIBRARY AND DEVELOPERS
+  ~
+  -->
+
+<vector android:height="24dp" android:viewportHeight="512.0"
+    android:viewportWidth="512.0" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillAlpha="1" android:fillColor="#222222"
+        android:pathData="M256,56C145.8,56 56,145.8 56,256C56,366.2 145.8,456 256,456C366.2,456 456,366.2 456,256C456,145.8 366.2,56 256,56zM256,102.5C341,102.5 409.5,171 409.5,256C409.5,341 341,409.5 256,409.5C171,409.5 102.5,341 102.5,256C102.5,171 171,102.5 256,102.5zM260.2,153.6C221,152.8 181.6,179 171.7,217.6C161.5,251.2 164.3,289.8 182.1,320.2C197.6,344.5 226.1,358.6 254.7,358.3C274.4,359 294.9,356.9 312.7,348.5C320.9,340.8 315,328.5 317.3,318.9C318,312.6 312.1,305.6 305.6,308.6C283.2,314.4 257.7,320.3 236.2,309.3C217.4,298.2 212.4,274.2 213.1,253.9C213.2,234.1 220.1,211.8 238.8,202.1C258.3,192.2 281.5,197.2 300.5,205.7C309.4,206.8 315.9,198.6 317.4,190.7C320.5,184 324,177.4 326.8,170.6C306.8,158.6 283.4,153 260.2,153.6z" android:strokeColor="#00000000"/>
+</vector>

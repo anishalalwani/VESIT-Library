@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\aaa.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\aaa.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bbbb.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\bbbb.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\aaaa.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\aaaa.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_first.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_first.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bbb.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\bbb.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_forth.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_forth.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_second.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_second.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bb.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\bb.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\aaaaa.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\aaaaa.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\aa.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\aa.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_third.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_third.png"
+    }
+]

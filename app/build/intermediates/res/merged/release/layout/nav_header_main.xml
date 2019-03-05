@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created By Pavankumar.camp.Vesit Library
+  ~ Copyright(c) 2017
+  ~ No Content can me modified or used without any permission
+  ~ All Rights Reserved to VESIT LIBRARY AND DEVELOPERS
+  ~
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="190dp"
+    android:background="@drawable/back"
+    android:orientation="vertical"
+    android:screenOrientation="portrait">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/your_library_id"
+        android:textSize="14sp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:gravity="left"
+        android:paddingBottom="4dp"
+        android:paddingLeft="25dp"
+        android:id="@+id/username"
+        android:layout_above="@+id/email"
+        tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/email"
+        android:gravity="left"
+        android:layout_marginBottom="8dp"
+        android:paddingLeft="40dp"
+        android:textSize="14sp"
+        android:textColor="#000"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/username"
+        android:layout_alignStart="@+id/username"
+        tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+</RelativeLayout>

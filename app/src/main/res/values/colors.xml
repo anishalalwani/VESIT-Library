@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created By Pavankumar.camp.Vesit Library
+  ~ Copyright(c) 2017
+  ~ No Content can me modified or used without any permission
+  ~ All Rights Reserved to VESIT LIBRARY AND DEVELOPERS
+  ~
+  -->
+<resources>
+<!-- login color-->
+    <color name="primary">#63AA9C</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#FFA000</color>
+    <color name="accent">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cardBackgroundColor">#ffffff</color>
+
+    <color name="snackbar1">#FF5722</color>
+    <color name="snackbar2">#125688</color>
+    <color name="snackbar3">#212121</color>
+
+<!-- base app color-->
+
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorPrimaryLight">#FFCDD2</color>
+    <color name="colorAccent">#7C4DFF</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="semiTransparentWhite">#40FFFFFF</color>
+
+    <!-- Screens background color tutorial -->
+    <color name="bg_screen1">#F5B810</color>
+    <color name="bg_screen2">#607d8b</color>
+    <color name="bg_screen3">#03A9F4</color>
+    <color name="bg_screen4">#8BC34A</color>
+
+    <!-- dots inactive colors tutorial -->
+    <color name="dot_dark_screen1">#000000</color>
+    <color name="dot_dark_screen2">#FFC107</color>
+    <color name="dot_dark_screen3">#000000</color>
+    <color name="dot_dark_screen4">#FFFFFF</color>
+
+    <!-- dots active colors tutorial -->
+    <color name="dot_light_screen1">#000000</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#000000</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_dark_screen4</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+
+    <color name="colorPrimarytab">#125688</color>
+    <color name="colorPrimaryDarktab">#125688</color>
+    <color name="textColorPrimarytab">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccenttab">#c8e8ff</color>
+</resources>

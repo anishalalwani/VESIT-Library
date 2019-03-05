@@ -1,0 +1,21 @@
+<!--
+  ~ Created By Pavankumar.camp.Vesit Library
+  ~ Copyright(c) 2017
+  ~ No Content can me modified or used without any permission
+  ~ All Rights Reserved to VESIT LIBRARY AND DEVELOPERS
+  ~
+  -->
+
+<vector android:height="24dp" android:viewportHeight="64.0"
+    android:viewportWidth="64.0" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#C75C5C" android:pathData="M32,32m-32,0a32,32 0,1 1,64 0a32,32 0,1 1,-64 0"/>
+    <path android:fillAlpha="0.2" android:fillColor="#231F20"
+        android:pathData="M46,50h-2c0,-0.74 0,-1.97 0,-4c0,-4.54 -3,-7.39 -3,-7.39s-2.97,-2.85 -3.89,-3.72c-0.92,-0.88 0,-1.78 0,-1.78s1.34,-1.28 4.17,-3.99c2.83,-2.71 2.72,-6.66 2.72,-6.66l0,-5.13l-12,-1l-12,1L20,22.46c0,0 -0.12,3.95 2.72,6.66c2.83,2.71 4.17,3.99 4.17,3.99s0.92,0.9 0,1.78C25.98,35.76 23,38.61 23,38.61S20,41.46 20,46c0,2.03 0,3.26 0,4h-2c-1.11,0 -2,0.89 -2,2c0,1.11 0.89,2 2,2h28c1.11,0 2,-0.89 2,-2C48,50.9 47.1,50 46,50z" android:strokeAlpha="0.2"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M41,36.61c0,0 -2.97,-2.85 -3.89,-3.72c-0.92,-0.88 0,-1.78 0,-1.78s1.34,-1.28 4.17,-3.99c2.83,-2.71 2.72,-6.66 2.72,-6.66l0,-5.13l-12,-1l-12,1L20,20.46c0,0 -0.12,3.95 2.72,6.66c2.83,2.71 4.17,3.99 4.17,3.99s0.92,0.9 0,1.78C25.98,33.76 23,36.61 23,36.61S20,39.46 20,44c0,4.54 -0,5.08 -0,5.08H32h12c0,0 -0,-0.54 -0,-5.08C44,39.46 41,36.61 41,36.61z"/>
+    <path android:fillColor="#4F5D73" android:pathData="M31,43l0.03,-11c0.02,-2.06 -0.95,-3.36 -1.33,-3.74l-4.22,-4.04c-1.43,-1.37 -1.48,-3.63 -1.48,-3.65H32h8c0,0 0,0 0,0c-0,0 -0.02,2.26 -1.48,3.65l-4.17,3.99C33.92,28.64 32.98,29.94 33,32l0,11H31z"/>
+    <path android:fillAlpha="0.3" android:fillColor="#231F20"
+        android:pathData="M48,16c0,1.11 -0.89,2 -2,2H18c-1.11,0 -2,-0.89 -2,-2l0,0c0,-1.11 0.89,-2 2,-2h28C47.1,14 48,14.9 48,16L48,16z" android:strokeAlpha="0.3"/>
+    <path android:fillColor="#F5CF87" android:pathData="M48,14c0,1.11 -0.89,2 -2,2H18c-1.11,0 -2,-0.89 -2,-2l0,0c0,-1.11 0.89,-2 2,-2h28C47.1,12 48,12.9 48,14L48,14z"/>
+    <path android:fillColor="#F5CF87" android:pathData="M48,50c0,1.11 -0.89,2 -2,2H18c-1.11,0 -2,-0.89 -2,-2l0,0c0,-1.11 0.89,-2 2,-2h28C47.1,48 48,48.9 48,50L48,50z"/>
+    <path android:fillColor="#4F5D73" android:pathData="M41,48l0,0l-18,0l0,0l9,-8z"/>
+</vector>

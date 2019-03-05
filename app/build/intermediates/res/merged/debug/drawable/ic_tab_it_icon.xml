@@ -1,0 +1,25 @@
+<!--
+  ~ Created By Pavankumar.camp.Vesit Library
+  ~ Copyright(c) 2017
+  ~ No Content can me modified or used without any permission
+  ~ All Rights Reserved to VESIT LIBRARY AND DEVELOPERS
+  ~
+  -->
+
+<vector android:height="24dp" android:viewportHeight="500.0"
+    android:viewportWidth="500.0" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#FF000000" android:pathData="M53,135h256c4,0 7,3 7,7v150c0,4 -3,7 -7,7h-256c-4,0 -7,-3 -7,-7v-150c0,-4 3,-7 7,-7z"/>
+    <path android:fillColor="#FF000000" android:pathData="M53,135h172v2c0,71 -40,132 -99,162h-73c-4,0 -7,-3 -7,-7v-150c0,-4 3,-7 7,-7z"/>
+    <path android:fillColor="#434242" android:pathData="M53,135h256c4,0 7,3 7,7v150c0,4 -3,7 -7,7h-256c-4,0 -7,-3 -7,-7v-150c0,-4 3,-7 7,-7zM91,349h53v-21h-100c-8,0 -14,-7 -14,-15v-178c0,-8 6,-15 14,-15h272c8,0 14,7 14,15v178c0,8 -6,15 -14,15h-100v21h53c6,0 11,5 11,11v3h-200v-3c0,-6 5,-11 11,-11z"/>
+    <path android:fillColor="#279DFF" android:pathData="M180,328m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"/>
+    <path android:fillColor="#434242" android:pathData="M360,360h100c6,0 10,-4 10,-10v-250c0,-6 -4,-10 -10,-10h-100c-6,0 -10,4 -10,10v250c0,6 4,10 10,10z"/>
+    <path android:fillColor="#fff" android:pathData="M365,130h90v-20h-90v20zM365,165h90v-20h-90v20z"/>
+    <path android:fillColor="#fff" android:pathData="M400,240v90c0,6 4,10 10,10s10,-4 10,-10v-90c0,-5 -4,-10 -10,-10s-10,5 -10,10z"/>
+    <path android:fillColor="#008BFF" android:pathData="M425,195c0,8 -7,15 -15,15s-15,-7 -15,-15 7,-15 15,-15 15,7 15,15z"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M410,330L410,280"
+        android:strokeColor="#008BFF" android:strokeLineCap="round" android:strokeWidth="7.5"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M410,240L410,265"
+        android:strokeColor="#008BFF" android:strokeLineCap="round" android:strokeWidth="7.5"/>
+</vector>

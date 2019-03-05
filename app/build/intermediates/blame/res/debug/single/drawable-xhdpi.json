@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_second.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-xhdpi\\ic_second.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ieee.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-xhdpi\\ieee.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_forth.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-xhdpi\\ic_forth.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_first.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-xhdpi\\ic_first.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_third.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-xhdpi\\ic_third.png"
+    }
+]

@@ -1,0 +1,10 @@
+/*
+ * Created By Pavankumar.camp.Vesit Library
+ * Copyright(c) 2017
+ * No Content can me modified or used without any permission
+ * All Rights Reserved to VESIT LIBRARY AND DEVELOPERS
+ *
+ */
+
+configurations.maybeCreate("default")
+artifacts.add("default", file('volley-1.0.0.jar'))

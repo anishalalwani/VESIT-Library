@@ -1,0 +1,27 @@
+<!--
+  ~ Created By Pavankumar.camp.Vesit Library
+  ~ Copyright(c) 2017
+  ~ No Content can me modified or used without any permission
+  ~ All Rights Reserved to VESIT LIBRARY AND DEVELOPERS
+  ~
+  -->
+
+<vector android:autoMirrored="true" android:height="128dp"
+    android:viewportHeight="128.0" android:viewportWidth="128.0"
+    android:width="128dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000"
+        android:pathData="M34.03,89.47L8.57,64"
+        android:strokeColor="#2F3435" android:strokeLineCap="square" android:strokeWidth="8"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M8.57,64L34.03,38.53"
+        android:strokeColor="#2F3435" android:strokeLineCap="square" android:strokeWidth="8"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M93.97,38.53L119.43,64"
+        android:strokeColor="#2F3435" android:strokeLineCap="square" android:strokeWidth="8"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M119.43,64L93.97,89.47"
+        android:strokeColor="#2F3435" android:strokeLineCap="square" android:strokeWidth="8"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M42,105.62L87.56,22.38"
+        android:strokeColor="#2F3435" android:strokeLineCap="square" android:strokeWidth="8"/>
+</vector>

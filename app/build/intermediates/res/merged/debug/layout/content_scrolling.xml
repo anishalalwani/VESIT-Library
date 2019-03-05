@@ -1,0 +1,156 @@
+<!--
+  ~ Created By Pavankumar.camp.Vesit Library
+  ~ Copyright(c) 2017
+  ~ No Content can me modified or used without any permission
+  ~ All Rights Reserved to VESIT LIBRARY AND DEVELOPERS
+  ~
+  -->
+
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:screenOrientation="portrait"
+    android:layout_margin="5dp"
+    android:background="#CFD8DC"
+    android:foreground="?android:attr/selectableItemBackground"
+    card_view:cardCornerRadius="10dp"
+    card_view:cardElevation="3dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/t0"
+        android:layout_marginTop="0dp"
+        android:layout_weight="1"
+        android:textColor="#000000"
+        android:fontFamily="Sans-serif"
+        android:text="@string/hello_everyone"
+        android:textSize="28sp"
+        android:paddingLeft="10dp"
+        android:textAlignment="viewStart"
+        android:textAllCaps="false"
+        tools:ignore="RtlCompat,RtlHardcoded,RtlSymmetry" />
+
+    <!--suppress AndroidDomInspection -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="50dp"
+        android:id="@+id/holder_relative_layout"
+        android:orientation="vertical"
+        android:gravity="center_vertical"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/t1"
+            android:textAlignment="center"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:fontFamily="Sans-serif"
+            android:textColor="#000000"
+            android:text="@string/we_are_happy_to_introduce_1st_vesit_library_android_app"
+            android:paddingLeft="15dp"
+            android:paddingRight="5dp"
+            tools:ignore="RtlHardcoded" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/this_is_first_release_of_library_app_which_gives_features_like"
+            android:id="@+id/t2"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:fontFamily="Sans-serif"
+            android:textColor="#000000"
+            android:paddingLeft="15dp"
+            android:paddingRight="5dp"
+            tools:ignore="RtlHardcoded" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a_you_can_check_your_issued_book_status"
+            android:id="@+id/t3"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:fontFamily="Sans-serif"
+            android:textColor="#000000"
+            android:paddingLeft="50dp"
+            android:paddingRight="5dp"
+            tools:ignore="RtlHardcoded" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/b_you_can_search_for_our_library_books_for_any_department_and_get_its_availability_status"
+            android:id="@+id/t4"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:fontFamily="Sans-serif"
+            android:textColor="#000000"
+            android:paddingLeft="50dp"
+            android:paddingRight="5dp"
+            tools:ignore="RtlHardcoded" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/c_all_reference_section_credentials_at_one_place_easy_to_access"
+            android:id="@+id/t5"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:fontFamily="Sans-serif"
+            android:textColor="#000000"
+            android:paddingLeft="50dp"
+            android:paddingRight="5dp"
+            tools:ignore="RtlHardcoded" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/currently_some_sample_books_are_aded_more_books_will_be_aded_in_next_update"
+            android:id="@+id/t7"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:fontFamily="Sans-serif"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:paddingLeft="50dp"
+            android:paddingRight="5dp"
+            tools:ignore="RtlHardcoded" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/web_portal_will_be_launched_for_other_platforms"
+            android:id="@+id/t8"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:fontFamily="Sans-serif"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:paddingLeft="50dp"
+            android:paddingRight="5dp"
+            tools:ignore="RtlHardcoded" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/as_this_is_first_release_of_app_it_may_crash_unexpectedly_and_might_have_some_bugs_so_please_give_us_feedback_it_will_solved_as_soon_as_possible"
+            android:id="@+id/t6"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:fontFamily="Sans-serif"
+            android:textColor="#000000"
+            android:paddingLeft="15dp"
+            android:paddingRight="5dp"
+            tools:ignore="RtlHardcoded" />
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

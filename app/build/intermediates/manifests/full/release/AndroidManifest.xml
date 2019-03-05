@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created By Pavankumar.camp.Vesit Library
+  ~ Copyright(c) 2017
+  ~ No Content can me modified or used without any permission
+  ~ All Rights Reserved to VESIT LIBRARY AND DEVELOPERS
+  ~
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vesitlibrary.pavankumar.camp.VESITLibrary"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="24" />
+
+    <!-- THIS PROJECT IS COPYRIGHT TO VESIT COLLAGE AND LIBRARY.TEAM  AND DEVELOPERS ALL RIGHTS ARE RESERVED -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:name="vesitlibrary.pavankumar.camp.VESITLibrary.Connectivity"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.WelcomeActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.SplashScreenActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.MainActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.LoginActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Dark"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.UserActivity"
+            android:parentActivityName="vesitlibrary.pavankumar.camp.VESITLibrary.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.TabbookActivity"
+            android:parentActivityName="vesitlibrary.pavankumar.camp.VESITLibrary.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayInstruActivity"
+            android:parentActivityName="vesitlibrary.pavankumar.camp.VESITLibrary.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayItActivity"
+            android:parentActivityName="vesitlibrary.pavankumar.camp.VESITLibrary.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayCompsActivity"
+            android:parentActivityName="vesitlibrary.pavankumar.camp.VESITLibrary.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayEtrxActivity"
+            android:parentActivityName="vesitlibrary.pavankumar.camp.VESITLibrary.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayExtcActivity"
+            android:parentActivityName="vesitlibrary.pavankumar.camp.VESITLibrary.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+
+        <receiver
+            android:name="vesitlibrary.pavankumar.camp.VESITLibrary.ConnectivityReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="vesitlibrary.pavankumar.camp.VESITLibrary.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+    </application>
+
+</manifest>
