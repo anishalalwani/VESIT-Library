@@ -5,7 +5,7 @@
 
 3. The application currently has more than 1000 downloads.
 
-4 Technologies used for this project were Android Studio, Laravel Framework and MS SQL Database. (Code of Android Studio only is mentioned in github)
+4. Technologies used for this project were Android Studio, Laravel Framework and MS SQL Database. (Code of Android Studio only is mentioned in github)
 
 5. Demonstrated the android application on VESIT Technology Day.
 
