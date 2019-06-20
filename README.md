@@ -22,8 +22,8 @@ https://ves.ac.in/vesit/wp-content/uploads/sites/3/2017/06/FEB20617.pdf  (Page 4
 9. Letter of appreciation received by the Vice Principle of the institute, VESIT, for the successful completion of the project.
 
 
-Link of the android application:
+### Link of the android application:
 https://play.google.com/store/apps/details?id=vesitlibrary.pavankumar.camp.VESITLibrary&hl=en_US
 
-Link of technical paper written for more details:
+### Link of technical paper written for more details:
 http://www.ijecs.in/index.php/ijecs/article/view/2798
