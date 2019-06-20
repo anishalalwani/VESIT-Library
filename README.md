@@ -1,7 +1,5 @@
 #   VESIT Library
 
-### Technology and platfroms
-
 1. Android Application that digitizes all the library transactions like issuing books, returning due date reminder and a host of other features. It is responsible for digitizing volumes of paper transactions to make the process seamless and easy. 
 
 2. The application reduced the workload of the library staff more than 30%.
@@ -14,7 +12,7 @@
 
 6. The android application featured in the institute newspaper, VESIT Connect in February 2017 edition.
 
-Link:
+### Link:
 https://ves.ac.in/vesit/wp-content/uploads/sites/3/2017/06/FEB20617.pdf  (Page 4)
 
 7. The android application digitized volumes of paper transactions to make the process seamless and easy. It is responsible for reducing the workload of the library staff more than 30%.
